@@ -68,7 +68,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Change these: `repo_name`, `project_title`, `project_description`
+Change these: `repo_name`, `project_title`, `project_description`, `documentation_link`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +112,7 @@ Change these: `repo_name`, `project_title`, `project_description`
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](documentation_link)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
